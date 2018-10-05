@@ -1,5 +1,6 @@
 # Gif-Maker
-JavaScript library that can create animated GIFs from media streams, videos, or images. Using the gif shot api.
+JavaScript library that can create animated GIFs from media streams, videos, or images. Using the gif shot api. 
+Live Demo Here -> https://shubhankardubey.github.io/Gif-Maker/index.html
 
 gifmaker uses the following technologies:
 
